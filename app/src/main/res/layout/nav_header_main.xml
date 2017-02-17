@@ -15,11 +15,11 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="146dp"
-        android:layout_height="48dp"
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
         app:srcCompat="@drawable/wvsslogo"
-        android:layout_weight="0.93" />
+        android:layout_weight="1.27" />
 
     <TextView
         android:layout_width="match_parent"
