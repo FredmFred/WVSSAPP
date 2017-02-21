@@ -1,20 +1,17 @@
-package wvssappclub.de.wvssapp;
-
-/**
- * Created by Fred on 15.02.2017.
- */
-
-import java.util.List;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
+package wvssappclub.de.wvssapp.vertretungspack;
 
 import org.apache.pdfbox.cos.COSDocument;
 import org.apache.pdfbox.pdfparser.PDFParser;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.util.PDFTextStripper;
 
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.List;
+
 public class PdfParser {
+
     private PDFParser parser = null;
 
     // Extract text from PDF Document

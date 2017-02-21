@@ -1,4 +1,4 @@
-package wvssappclub.de.wvssapp; /**
+package wvssappclub.de.wvssapp.vertretungspack; /**
  * Created by Fred on 15.02.2017.
  */
 
@@ -10,7 +10,6 @@ import java.nio.channels.Channels;
 import java.nio.channels.ReadableByteChannel;
 //import java.time.Year;
 import java.util.ArrayList;
-import java.util.GregorianCalendar;
 
 public class Vertretungsplan {
     private File lokal;

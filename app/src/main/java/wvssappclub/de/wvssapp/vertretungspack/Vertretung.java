@@ -1,4 +1,4 @@
-package wvssappclub.de.wvssapp;
+package wvssappclub.de.wvssapp.vertretungspack;
 
 /**
  * Created by Fred on 15.02.2017.
